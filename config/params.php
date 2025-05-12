@@ -8,7 +8,7 @@ return [
         'clientId' => '**',
         'clientSecret' => '**',
         'redirectUri' => 'https://test-yii.ru/amo/callback',
-        'domain' => 'o9158554533.amocrm.ru',
+        'domain' => '**.amocrm.ru',
 		'tokenPath' =>'@runtime/json_token.json',
     ], 
 ];
